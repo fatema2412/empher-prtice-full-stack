@@ -1,0 +1,1 @@
+export const baseUrl ="https://trusted-luck-wedge.glitch.me";
